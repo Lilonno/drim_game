@@ -29,7 +29,7 @@ website:
 format:
   html:
     theme: cosmo
-    css: styles.css
-    toc: true       # Active le sommaire sur chaque page
-    toc-location: right  # Positionne le sommaire à droite
-    toc-depth: 2    # Ajuste la profondeur du sommaire (2 pour inclure titres de niveau 1 et 2)
+    css: assets/css/styles.css  # Assurez-vous du bon chemin vers le CSS
+    toc: true
+    toc-location: right
+    toc-depth: 2
