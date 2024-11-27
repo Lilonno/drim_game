@@ -1,0 +1,35 @@
+project:
+  type: website
+
+website:
+  title: "Site du DRIM GAME"
+  navbar:
+    left:
+      - text: "Accueil"
+        href: index.qmd
+      - text: "Revue de littérature"
+        href: index2.qmd
+      - text: "Etude relationnelle"
+        href: Defaillance_entreprise.qmd
+      - text: "Données de Panel"
+        href: DP.qmd
+      - text: "Panel VAR"
+        href: VARRF.qmd
+      - text: "Random forest"
+        href: Rappcorr.qmd
+        
+    right:
+      - text: "À propos"
+        href: about.qmd
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true       # Active le sommaire sur chaque page
+    toc-location: right  # Positionne le sommaire à droite
+    toc-depth: 2    # Ajuste la profondeur du sommaire (2 pour inclure titres de niveau 1 et 2)

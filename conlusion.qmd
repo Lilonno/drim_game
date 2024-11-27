@@ -1,0 +1,34 @@
+---
+title: "Conclusion"
+categories: [Décomposition de la variance, Prévision]
+toc: true
+toc-location: right
+toc-depth: 2
+---
+
+## Décomposition de la variance du taux de défaillance 
+
+
+<hr style="border: 1px solid black; width: 100%; margin: 20px 0;">
+
+<div style="display: flex; justify-content: center; align-items: center; margin: 20px auto;">
+
+  <div style="text-align: center; 
+              border: 2px solid black; 
+              padding: 10px; 
+              width: 550px; 
+              box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+              background-color: #fff;">
+
+  <p style="margin-top: 10px; font-size: 0.9em; color: #333;">ACP tableau</p>
+
+  <img src="synthese.png" alt="Image 1" style="width: 500px; height: auto; margin-bottom: 10px;" />
+
+  <p style="font-size: 0.85em; color: #333; margin-top: 10px; text-align: justify; line-height: 1.6;">description du tableau
+  </p>
+
+  </div>
+
+</div>
+
+## Prévision
